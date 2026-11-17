@@ -1,0 +1,93 @@
+{
+  "_nota": "Textos de la herramienta. Versión provisional del 17/11/2026; el texto definitivo lo cierra el Owner. {nombre} se sustituye por el nombre de pila del alumno. Si cambia el número de preguntas, no hay que tocar el código.",
+  "version": "2026-11-17 provisional 2",
+  "titulo": "El ecuador del curso",
+  "marca": {
+    "izquierda": "Curso de Trading con IA",
+    "derecha": "1.ª promoción"
+  },
+  "bienvenida": {
+    "titulo": "Hola, {nombre}",
+    "texto": "Acabamos de pasar la mitad del curso y queremos escucharte. Son cinco preguntas y se contestan hablando, como si nos lo contaras tomando un café. Cinco minutos.",
+    "dispositivos": "Puedes hacerlo desde el móvil o desde el ordenador. Incluso empezar en uno y terminar en otro: abre este mismo enlace y seguirás donde lo dejaste.",
+    "sorteo": "Entre todos los que contestéis hasta el miércoles 25 de noviembre sorteamos un reenganche gratuito: una plaza para volver a hacer el curso, actualizado, con la segunda promoción. Entra todo el que conteste, diga lo que diga. El sorteo será en directo, en la clase del jueves 26 de noviembre.",
+    "privacidad": "Lo que nos cuentes lo escuchamos solo nosotros, el equipo del curso, y nos sirve para mejorarlo. Al final te preguntaremos, aparte, si podemos enseñar algo de ello.",
+    "firma": "Yuri Rabassa"
+  },
+  "instrucciones": {
+    "titulo": "Cómo funciona",
+    "pasos": [
+      {
+        "titulo": "Pulsa el micrófono, habla y pulsa «Enviar y seguir».",
+        "texto": "Así de sencillo. Si necesitas pensar, pulsa otra vez el micrófono para hacer una pausa. Si quieres escucharte antes de enviarlo, usa «Parar y escucharlo antes de enviar». Si lo prefieres, también puedes escribir."
+      },
+      {
+        "titulo": "Si te olvidas de algo, vuelve atrás.",
+        "texto": "Con «Anterior» o desde el índice puedes ir a cualquier pregunta y añadir lo que quieras. Lo que ya grabaste no se pierde: se suma. Y si una pregunta no te dice nada, puedes saltarla."
+      },
+      {
+        "titulo": "Habla con naturalidad.",
+        "texto": "No te preocupes por la precisión ni por el orden: te vamos a entender perfectamente. Háblanos de lo que has aprendido y de cómo trabajas ahora. De resultados de trading, mejor no: no es lo que buscamos."
+      }
+    ],
+    "nota": "Puedes dejarlo a medias y seguir otro día con el mismo enlace. Estas instrucciones están siempre en el botón «?»."
+  },
+  "preguntas": [
+    {
+      "texto": "Preséntate: a qué te dedicas y qué relación tenías con la inteligencia artificial antes del curso."
+    },
+    {
+      "texto": "¿Qué sabes hacer hoy que en octubre no sabías? Cuéntanos un ejemplo concreto."
+    },
+    {
+      "texto": "¿Qué es lo que más te ha sorprendido?"
+    },
+    {
+      "texto": "¿Qué cambiarías o mejorarías del curso?"
+    },
+    {
+      "texto": "¿Qué le dirías a alguien como tú que está dudando si entrar en la siguiente promoción?"
+    },
+    {
+      "texto": "Si quieres contarnos algo más, este es el sitio.",
+      "abierta": true
+    }
+  ],
+  "foto": {
+    "titulo": "Si quieres, una foto tuya",
+    "texto": "Es opcional. Nos ayuda a ponerle cara a tu voz y se guarda en privado, como tus audios. Puedes hacértela ahora o subir una que ya tengas.",
+    "camara": "Hacerme una foto ahora",
+    "subir": "Subir una foto que ya tengo",
+    "saltar": "Prefiero no enviar foto"
+  },
+  "permiso": {
+    "titulo": "Una última cosa, aparte",
+    "texto": "Lo que nos has contado ya nos sirve para mejorar el curso. Aparte: ¿nos dejas enseñar algo de ello a quienes están pensando en entrar en la siguiente promoción?",
+    "opciones": [
+      {
+        "id": "voz_foto",
+        "texto": "Sí, y pueden saber que soy yo.",
+        "detalle": "Con tu nombre de pila, y con tu voz o tu foto. Por ejemplo: «Marta, arquitecta, Valencia»."
+      },
+      {
+        "id": "anonimo",
+        "texto": "Sí, pero sin que se sepa que soy yo.",
+        "detalle": "Solo tus palabras, por escrito y sin tu nombre. Por ejemplo: «una arquitecta de 41 años»."
+      },
+      {
+        "id": "no",
+        "texto": "Prefiero que quede entre nosotros.",
+        "detalle": "Lo usamos solo para mejorar el curso."
+      }
+    ],
+    "nota": "Antes de publicar nada con tu nombre, te lo enseñaremos. Y puedes cambiar de opinión cuando quieras escribiéndonos.",
+    "boton": "Guardar mi respuesta"
+  },
+  "final": {
+    "titulo": "Gracias, {nombre}",
+    "texto": "Nos alegra mucho haberte escuchado. Gracias por dedicarnos este rato y por contarnos cómo lo estás viviendo.",
+    "sorteo": "Ya estás en el sorteo del reenganche. Lo hacemos en directo, en la clase del jueves 26 de noviembre.",
+    "nota": "Si te acuerdas de algo más, vuelve cuando quieras con el mismo enlace y añádelo a cualquier pregunta.",
+    "firma": "Yuri Rabassa"
+  }
+}
