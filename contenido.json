@@ -1,6 +1,6 @@
 {
-  "_nota": "Textos de la herramienta. Versión provisional del 17/11/2026; el texto definitivo lo cierra el Owner. {nombre} se sustituye por el nombre de pila del alumno. Si cambia el número de preguntas, no hay que tocar el código.",
-  "version": "2026-11-17 provisional 2",
+  "_nota": "Textos de la herramienta, aprobada por el Owner el 17/11/2026. {nombre} se sustituye por el nombre de pila del alumno.",
+  "version": "2026-11-17 aprobada",
   "titulo": "El ecuador del curso",
   "marca": {
     "izquierda": "Curso de Trading con IA",
@@ -10,7 +10,7 @@
     "titulo": "Hola, {nombre}",
     "texto": "Acabamos de pasar la mitad del curso y queremos escucharte. Son cinco preguntas y se contestan hablando, como si nos lo contaras tomando un café. Cinco minutos.",
     "dispositivos": "Puedes hacerlo desde el móvil o desde el ordenador. Incluso empezar en uno y terminar en otro: abre este mismo enlace y seguirás donde lo dejaste.",
-    "sorteo": "Entre todos los que contestéis hasta el miércoles 25 de noviembre sorteamos un reenganche gratuito: una plaza para volver a hacer el curso, actualizado, con la segunda promoción. Entra todo el que conteste, diga lo que diga. El sorteo será en directo, en la clase del jueves 26 de noviembre.",
+    "sorteo": "Entre todos los que contestéis hasta el lunes 23 de noviembre incluido sorteamos un reenganche gratuito: una plaza para volver a hacer el curso, actualizado, con la segunda promoción. Entra todo el que conteste, diga lo que diga. El sorteo será en directo, en la clase del jueves 26 de noviembre.",
     "privacidad": "Lo que nos cuentes lo escuchamos solo nosotros, el equipo del curso, y nos sirve para mejorarlo. Al final te preguntaremos, aparte, si podemos enseñar algo de ello.",
     "firma": "Yuri Rabassa"
   },
